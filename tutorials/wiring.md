@@ -3,6 +3,9 @@ title: Wiring
 layout: post
 ---
 
+## Wiring
+
+
 Things you'll need:
 1. Receiver 
 2. BEC to power the receiver
