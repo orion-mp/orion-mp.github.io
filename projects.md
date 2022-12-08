@@ -3,6 +3,7 @@ layout: default
 title: Projects
 ---
 # Projects
+---
 
 ## Combat Robotics
 
