@@ -15,3 +15,6 @@ Deis Robotics is a club team at Brandeis University. We're a diverse group of st
 4. **Wiki:** A link to our team wikipedia page at NHRL. 
 
 ![20221202_171455](https://user-images.githubusercontent.com/118695279/205403720-6ae4dc7b-3472-4c45-8148-8e8e778112bd.jpg)
+
+## Sponsors
+1. [Getpids](getpids.com)
