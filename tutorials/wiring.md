@@ -1,6 +1,6 @@
 ---
 title: Wiring
-layout: post
+layout: default
 ---
 
 ## Wiring
