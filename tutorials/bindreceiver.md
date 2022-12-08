@@ -1,6 +1,6 @@
 ---
 title: Binding a Receiver
-layout: page
+layout: default
 ---
 
 ## Binding a Receiver
