@@ -1,6 +1,6 @@
 ---
 title: Flashing BLHeli to an ESC
-layout: page
+layout: default
 ---
 
 ## Flashing BLHeli to an ESC
