@@ -3,6 +3,8 @@ title: "Tutorials"
 layout: default
 ---
 
+# Tutorials
+
 ## Electronics guides:
 1. [Wiring](tutorials/wiring.md)
 2. [Flashing an ESC](tutorials/flashesc.md)
