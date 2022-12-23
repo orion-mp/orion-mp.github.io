@@ -6,10 +6,7 @@ layout: default
 # Tutorials
 ---
 
-<details><summary> <div class="header"> 
-  <h2>Electronics guides</h2>
-  </div>
-  </summary>
+<details><summary>Electronics guides</summary>
   
 1. [Wiring](tutorials/wiring)
 2. [Flashing an ESC](tutorials/flashesc)
