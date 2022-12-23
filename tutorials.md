@@ -6,26 +6,24 @@ layout: default
 # Tutorials
 ---
 
-<details><summary>Electronics guides</summary>
-  
+<details><summary>Electronics</summary>
+<br>
 1. [Wiring](tutorials/wiring)
 2. [Flashing an ESC](tutorials/flashesc)
 3. [Binding a Receiver](tutorials/bindreceiver)
-  
 </details>
 
 <details><summary> <div class="header"> 
   <h2>Design guides</h2>
   </div>
   </summary>
-  
+<br>
 1. [CAD](tutorials/cad_guide)
-2. [Fasteners](tutorials/fasteners)
-  
+2. [Fasteners](tutorials/fasteners) 
 </details>
 
 <details><summary> <div class="header"> 
-  <h2>Manufacturing guides</h2>
+  <h2>Manufacturing</h2>
   </div>
   </summary>
   
