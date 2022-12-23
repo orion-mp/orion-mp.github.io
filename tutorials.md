@@ -6,18 +6,42 @@ layout: default
 # Tutorials
 ---
 
-## Electronics guides:
+<details><summary> <div class="header"> 
+  <h2>Electronics guides</h2>
+  </div>
+  </summary>
+  
 1. [Wiring](tutorials/wiring)
 2. [Flashing an ESC](tutorials/flashesc)
 3. [Binding a Receiver](tutorials/bindreceiver)
+  
+</details>
 
-## Design guides:
+<details><summary> <div class="header"> 
+  <h2>Design guides</h2>
+  </div>
+  </summary>
+  
 1. [CAD](tutorials/cad_guide)
 2. [Fasteners](tutorials/fasteners)
+  
+</details>
 
-## Manufacturing guides:
+<details><summary> <div class="header"> 
+  <h2>Manufacturing guides</h2>
+  </div>
+  </summary>
+  
 1. [CNC](tutorials/cnc_guide)
-
-## Calculations:
+  
+</details>
+ 
+<details><summary> <div class="header"> 
+  <h2>Calculations</h2>
+  </div>
+  </summary>
+  
 1. Bite
 2. Kinetic Energy
+  
+</details>
