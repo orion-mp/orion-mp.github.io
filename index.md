@@ -3,9 +3,8 @@ layout: default
 ---
 
 
-
 # Who are we?
-Deis Robotics is a club team at Brandeis University. We're a diverse group of students connected by a common interest in robotics. Right now, we're really active in the exciting sport of Combat Robotics, and we've attended a number of events at Norwalk Havoc Robotics Leage ([NHRL](https://www.nhrl.io/))
+Deis Robotics is a club team at Brandeis University. We're a diverse group of students connected by a common interest in robotics. Right now, we're really active in the exciting sport of Combat Robotics, and we've attended a number of events at Norwalk Havoc Robotics Leage ([NHRL](https://www.nhrl.io/)) under the team name DEISy Robotics.
 
 
 ## What can you find in this website?
